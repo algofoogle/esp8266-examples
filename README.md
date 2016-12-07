@@ -8,4 +8,8 @@ For now, I expect these will be exclusively done in C, using the ESP8266 NONOS S
 
 I'll grow this documentation as time permits :)
 
+## Branch: `wip/tcp-server`
+
+This is a work-in-progress to implement a TCP server example.
+See the [`XX-tcp-server` subdirectory](./XX-tcp-server).
 

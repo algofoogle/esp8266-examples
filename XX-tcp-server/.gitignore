@@ -1,0 +1,4 @@
+user_config.h
+user_main-0x*.bin
+user_main
+user_main.o

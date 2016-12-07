@@ -1,0 +1,2 @@
+#define SSID			"yourrouter"
+#define SSID_PASSWORD	"yourpassword"
